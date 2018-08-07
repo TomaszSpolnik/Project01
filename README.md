@@ -4,4 +4,4 @@ Unfortunately the latest .java file is missing, so for the code review I have up
 You can also check the screenshots to see functionality of this software.
 
 Requires Java installed on the computer.
-Start program by running GUI.jar file. 
+Start program by running Spendings.jar file. 
